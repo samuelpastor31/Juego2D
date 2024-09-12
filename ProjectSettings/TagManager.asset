@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gold
+  - Star
+  - ZOOM
+  - MobilePlatform
+  - Item
+  - Cherry
+  - Enemy
+<<<<<<< HEAD
+=======
+  - Door
+>>>>>>> d89e85f (Puerta hecha)
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Character
+  - Foreground
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3786129507
+    locked: 0
+  - name: Character
+    uniqueID: 4190602991
+    locked: 0
+  - name: Foreground
+    uniqueID: 2897026883
+    locked: 0
+  - name: Ground
+    uniqueID: 2990581547
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2842204899
+    locked: 0
+  - name: Enemy
+    uniqueID: 3231029651
+    locked: 0
+<<<<<<< HEAD
+=======
+  - name: New Layer 8
+    uniqueID: 2373899431
+    locked: 0
+>>>>>>> d89e85f (Puerta hecha)
